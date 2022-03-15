@@ -1,0 +1,5 @@
+helloWorld <- function(username='小熊維尼'){
+  sprintf('Hello! %s', username)
+}
+
+helloWorld()
